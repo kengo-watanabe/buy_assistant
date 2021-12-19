@@ -7,8 +7,7 @@
 ##### このアプリを作った目的としてはもの忘れがちらほらでてきており、買い物の際に買い忘れがたまにあるため、このアプリを作りました。
 ##### 使用用途は、買い物に行く前に入力スペースに買いたいものを入力することで下にメモが形成され、
 ##### ものをある程度カゴに入れて写真を撮るとそのものを検知して買い忘れがないかを調べてくれるアプリとなっております。
-##### アプリはこちらで動作しております
-https://share.streamlit.io/kengo-watanabe/buy_assistant/main.py
+[アプリはこちらで動作しております]https://share.streamlit.io/kengo-watanabe/buy_assistant/main.py
 
 ##### 参考資料
 https://docs.microsoft.com/ja-jp/azure/cognitive-services/computer-vision/quickstarts-sdk/image-analysis-client-library?pivots=programming-language-python&tabs=visual-studio
